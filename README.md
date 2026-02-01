@@ -1,7 +1,7 @@
 # will-you-be-my-valentine# 💘 Valentine Proposal v1.0
 
 ## Description
-A simple but heartfelt question, deployed with love.
+I WILL ASK THIS ONLY ONCE NEXT TIME GONNA SHOOT YOU
 
 ## Demo
 ```js
